@@ -1,4 +1,4 @@
 # Juego-intro
 
-### Avances del juego
+## Avances del juego
 
