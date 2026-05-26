@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=SafeZone
+comment0.text=\r\n\ SafeZone\:\ \u00E1rea\ verde\ que\ act\u00FAa\ como\ checkpoint\ y\ zona\ de\ inicio/fin.\r\n\ El\ Player\ detecta\ la\ intersecci\u00F3n\ y\ actualiza\ su\ punto\ de\ respawn.\r\n\ Si\ el\ jugador\ llega\ aqu\u00ED\ con\ todas\ las\ monedas\ recogidas\ \u2192\ nivel\ completado.\r\n
+comment1.params=
+comment1.target=SafeZone()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

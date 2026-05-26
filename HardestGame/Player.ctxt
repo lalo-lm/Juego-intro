@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=
+comment1.target=Player()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ move()
+comment4.params=
+comment4.target=boolean\ isWall()
+comment5.params=px\ py\ wx\ wy\ ww\ wh
+comment5.target=boolean\ overlapsHitbox(int,\ int,\ int,\ int,\ int,\ int)
+comment6.params=
+comment6.target=void\ checkDeath()
+comment7.params=
+comment7.target=void\ pickCoin()
+comment8.params=
+comment8.target=void\ checkWin()
+comment9.params=
+comment9.target=void\ die()
+numComments=10
